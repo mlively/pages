@@ -1,4 +1,4 @@
-<div id="randomNumber" style="text-align: center; font-weight: bold; font-size: 20em"></div>
+<div id="randomNumber" style="text-align: center; font-weight: bold; font-size: 20em; line-height: 1em"></div>
  
 <script>
     var randomNumberTo = function (maxNum) {
