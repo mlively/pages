@@ -2,7 +2,7 @@
  
 <script>
     var randomNumberTo = function (maxNum) {
-        return Math.ceil(Math.random() * maxNum;
+        return Math.ceil(Math.random() * maxNum);
     };
     document.getElementById("randomNumber").innerHTML = randomNumberTo(9);
     window.setInterval(function () {
