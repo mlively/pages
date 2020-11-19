@@ -32,6 +32,6 @@
 
     window.setInterval(function () {
         update();
-    }, 1000);
+    }, 2000);
 
 </script>
